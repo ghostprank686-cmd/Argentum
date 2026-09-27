@@ -1,4 +1,4 @@
-```ini
+
 [app]
 
 title = Argentum - Competencia de Rap
