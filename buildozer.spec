@@ -1,6 +1,6 @@
 [app]
 # (str) Title of your application
- title = Argentum - Competencias de Rap
+ title = Argentum - Competencia de Rap
 # (str) Package name
 package.name = argentum
 # (str) Package domain (needed for android/ios packaging)
@@ -21,6 +21,8 @@ orientation = portrait
 fullscreen = 0
 
 [buildozer]
+
+android.accept_sdk_license = True
 # (str) Log level (0 = error only, 1 = info, 2 = debug)
 log_level = 2
 # (str) Warn if buildozer is run as root
